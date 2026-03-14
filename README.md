@@ -1,7 +1,7 @@
 # QA Hub — OrangeHRM
 
 
-![Cypress Tests](https://github.com/beatrizbcserra/qa-hub-orangehrm/actions/workflows/cypress.yml/badge.svg)
+![Playwright Tests](https://github.com/beatrizbcserra/qa-hub-orangehrm/actions/workflows/cypress.yml/badge.svg)
 ![k6 Performance](https://github.com/beatrizbcserra/qa-hub-orangehrm/actions/workflows/k6.yml/badge.svg)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
