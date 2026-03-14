@@ -1,8 +1,8 @@
 # QA Hub — OrangeHRM
 
 
-![Playwright Tests](https://github.com/beatrizbcserra/qa-hub-orangehrm/actions/workflows/cypress.yml/badge.svg)
-![k6 Performance](https://github.com/beatrizbcserra/qa-hub-orangehrm/actions/workflows/k6.yml/badge.svg)
+![Playwright Tests](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![k6 Performance](https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 
 
