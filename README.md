@@ -21,7 +21,7 @@ seguindo boas práticas de documentação, automação e entrega contínua.
 | Camada          | Ferramenta        | Status       |
 |-----------------|-------------------|--------------|
 | Testes Manuais  | Markdown + Excel  | ✅ Concluído |
-| Automação E2E   | Cypress           | 🚧 Em andamento |
+| Automação E2E   | Playwright           | 🚧 Em andamento |
 | Performance     | k6                | 🔜 Planejado |
 | Mobile          | Appium            | 🔜 Planejado |
 | CI/CD Pipeline  | GitHub Actions    | ✅ Concluído |
