@@ -40,7 +40,7 @@ npm install
 
 
 # Execute os testes Cypress
-npx cypress open
+npx playwright open
 
 
 # Execute os testes de performance
